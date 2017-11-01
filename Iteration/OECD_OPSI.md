@@ -18,4 +18,4 @@ Innovation projects typically involve testing whether something works, and using
 
 Iterative approaches and project management methods can enable officials to try out things that may not work, initially at a small scale and then progressively increasingly the scale of the work. Using sand-boxes, prototypes and experiments allows officials to check step-by-step whether something is working and if not take action sooner rather than later.
 
-* Creative Commons Attribution- ShareAlike 3.0 IGO Licence. [The Observatory of Public Sector Innovation](https://www.oecd.org/media/oecdorg/satellitesites/opsi/contents/files/OECD_OPSI-core_skills_for_public_sector_innovation-201704.pdf)
+* Creative Commons Attribution-ShareAlike 3.0 IGO Licence. [The Observatory of Public Sector Innovation](https://www.oecd.org/media/oecdorg/satellitesites/opsi/contents/files/OECD_OPSI-core_skills_for_public_sector_innovation-201704.pdf)
