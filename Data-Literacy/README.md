@@ -1,4 +1,4 @@
-# Data Literacy
+# Data literacy
 
 Data literacy means that, wherever possible, decisions should be based on data not hunches or guesses. Data isn’t just for ‘geeks’, non-specialists must understand its importance
 
