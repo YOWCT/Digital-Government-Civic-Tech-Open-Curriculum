@@ -2,6 +2,8 @@
 
 User centricity is about having services and policies that are designed to solve user needs, with users considered at every stage of the process so that they will say “I would do that again".
 
+It is about **building great interfaces** and having patterns that make it easy to navigate and discover information. 
+
 ## Objectives
 
 - Policies and services solve user needs
