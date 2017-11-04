@@ -5,7 +5,7 @@ Open source Civic Tech course based on The Observatory of Public Sector Innovati
 
 1. **Core Skills** for Public Sector Innovation - Introduction
 1. [**Iteration**](Iteration) - incrementally and experimentally developing policies, products and services
-1. [**Data Literacy**](Data-Literacy) - ensuring decisions are data-driven and that data isn't an after though
+1. [**Data Literacy**](Data-literacy) - ensuring decisions are data-driven and that data isn't an after though
 1. [**User centricity**](User-centricity) - public services should be focussed on solving and servicing user needs
 1. [**Curiosity**](Curiosity) - seeking out and trying new ideas or ways of working
 1. [**Storytelling**](Storytelling) - explaining change in a way that builds support
