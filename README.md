@@ -1,4 +1,5 @@
-# Civic-Tech-Course
+# Civic Tech Course
+
 Open source Civic Tech course based on The Observatory of Public Sector Innovation's "CORE SKILLS FOR PUBLIC SECTOR INNOVATION" April 2017 beta model.
 
 Use of new technology demands that government services are more responsive and citizen-focused. In order to 
