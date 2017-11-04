@@ -47,6 +47,11 @@ management approaches allows new
 ideas to be tested on a small scale before 
 trying to implement more widely.
 
+## Activities
+- Business: lean processes
+- Design: prototyping
+- Software development: Agile
+
 ## Links
 
 ## Canadian Examples
