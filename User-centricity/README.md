@@ -1,4 +1,4 @@
-# User Centricity
+# User centricity
 
 User centricity is about having services and policies that are designed to solve user needs, with users considered at every stage of the process so that they will say “I would do that again".
 
@@ -53,4 +53,4 @@ out. The user is always the best source.
 
 ## Links
 
-## Canadian Examples
+## Canadian examples
