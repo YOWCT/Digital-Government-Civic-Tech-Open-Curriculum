@@ -2,6 +2,8 @@
 
 Iteration is about using incremental, often rapid, approaches in the development of a project, product or service while reducing risks. Developing prototypes, conducting tests and experiments can help identify the best solution.
 
+It is about boldly **working across silos** inside and outside of government.
+
 ## Objectives
 
 - Rapid and incremental development
