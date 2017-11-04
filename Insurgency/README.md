@@ -2,6 +2,8 @@
 
 Insurgency means challenging the status quo and the usual way of doing things, it means working with new and different partners to gain new insights or deliver projects.
 
+It is about boldly **working across silos** inside and outside of government.
+
 ## Objectives
 
 - Challenging the usual way of doing things
