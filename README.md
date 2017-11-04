@@ -1,6 +1,15 @@
 # Civic-Tech-Course
 Open source Civic Tech course based on The Observatory of Public Sector Innovation's "CORE SKILLS FOR PUBLIC SECTOR INNOVATION" April 2017 beta model.
 
+Use of new technology demands that government services are more responsive and citizen-focused. In order to 
+met the exponentially growing demand from citizens governments need a strong understanding of the tools and 
+processes of both technology and design. This Civic Tech course will introduce public servants to these concepts to prepare 
+them to lead digital transformation in government. Focusing on case studies and practical 
+applications, the course will cover emerging best practices in digital government.
+
+By the end of the course, students will be familiar with the tools, methods, and processes of digital 
+government, and be able to identify opportunities to apply them to their own work.
+
 ## Modules
 
 1. **Core skills** for Public Sector Innovation - Introduction
