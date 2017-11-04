@@ -57,7 +57,7 @@ that you haven’t thought of.
 
 ## Activities
 
-- Co-design
+- Discuss co-design and collaboration
 - Exploring incubators and innovation labs
 - Group discussion about opportunities outside of silos
 - Paying it forward (adding information to the course GitHub pages)
