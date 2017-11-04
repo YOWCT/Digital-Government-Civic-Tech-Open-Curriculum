@@ -55,6 +55,13 @@ no reason not to work with them, they
 may have valuable insights and practices 
 that you haven’t thought of.
 
+## Activities
+
+- Co-design
+- Exploring incubators and innovation labs
+- Group discussion about opportunities outside of silos
+- Paying it forward (adding information to the course GitHub pages)
+
 ## Links
 
 ## Canadian Examples
