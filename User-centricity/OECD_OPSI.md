@@ -1,4 +1,4 @@
-# User-centricity 
+# User centricity 
 
 The idea of involving citizens in developing public services is not new, and "customer focus" has been mantra of management consultancies for decades. However, the arrival of the digital government agenda, and the subsequent bottom-up development of new online services has placed the idea of "user needs" at the focal point of both policy making and service design – in both the US and the UK, user needs are the first principle of government guidelines for developing digital public services.
 
@@ -19,4 +19,4 @@ Users are diverse, no two users are the same, when developing services it is imp
 To develop effective user centred services and policies, officials must adopt participative approaches that involve users throughout the life of the project. This may be as simple as undertaking user research at different stages (to identify needs; test prototypes, alpha, beta, and live versions) through to deep participatory exercises such as the co-production of a policy or service which aims to foster a sense of joint ownership of the exercise between officials and users.
 
 
-    Creative Commons Attribution-ShareAlike 3.0 IGO Licence. The Observatory of Public Sector Innovation
+* Creative Commons Attribution-ShareAlike 3.0 IGO Licence. The Observatory of Public Sector Innovation
