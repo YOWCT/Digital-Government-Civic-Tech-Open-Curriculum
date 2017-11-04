@@ -2,6 +2,8 @@
 
 Storytelling is about communicating in an ever changing world, telling the “story” of change helps build support and engage people by talking about the past, present and possible futures
 
+Let's remember to **start with user needs** and build them into the process to ensure it is relevant. 
+
 ## Objectives
 
 - Using narratives to explain 'the journey'
