@@ -53,6 +53,14 @@ or passes on information about a users
 need a bit of that information is missed 
 out. The user is always the best source.
 
+## Activities
+- User experience and user interface design
+- Web accessibility
+- User testing
+- Measurement and analytics
+- Design critique
+
 ## Links
+- https://www.w3.org/WAI/intro/wcag
 
 ## Canadian examples
