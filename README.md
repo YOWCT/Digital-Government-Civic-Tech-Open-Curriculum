@@ -7,7 +7,7 @@ Open source Civic Tech course based on The Observatory of Public Sector Innovati
 1. **Iteration** - incrementally and experimentally developing policies, products and services
 1. **Data literacy** - ensuring decisions are data-driven and that data isn't an after though
 1. **User centricity** - public services should be focussed on solving and servicing user needs
-1. **Curiosity** - seeking out and trying new ideas or ways of working
+1. [**Curiosity**](/Curiosity/) - seeking out and trying new ideas or ways of working
 1. **Storytelling** - explaining change in a way that builds support
 1. **Insurgency** - challenging the status quo and working with unusual partners
 1. **Putting it all Together**
