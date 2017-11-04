@@ -1,4 +1,4 @@
-# Data Literacy
+# Data literacy
 
 The world has been experiencing a data revolution in recent years, yet it is widely held that government is not making the best use of the data it produces or has access to. The nature of the data is also changing: there is an ever greater and increasing volume, velocity and variety of data available. Alongside traditional analytical professions (statisticians, economists, researchers) a new type of activity and occupation (‘data science’ and the 'data scientist‘) has emerged from individuals who are able to exploit these new forms of data. 
 
