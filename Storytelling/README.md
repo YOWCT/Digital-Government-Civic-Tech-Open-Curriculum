@@ -50,6 +50,12 @@ sharing your experiences you help ensure
 people don’t have to learn the same 
 lessons over and over.
 
+## Activities
+
+- The human-centred design process
+- Basics of user research vs traditional public consultation
+- Building interviews
+
 ## Links
 
 ## Canadian Examples
