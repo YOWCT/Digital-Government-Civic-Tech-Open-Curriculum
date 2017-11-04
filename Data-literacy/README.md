@@ -2,6 +2,8 @@
 
 Data literacy means that, wherever possible, decisions should be based on data not hunches or guesses. Data isn’t just for ‘geeks’, non-specialists must understand its importance
 
+Let's **join the open ecosystem** and learn how to engage with data leveraging open source tools and gaining an appreciation of open standards.
+
 ## Objectives
 
 - Basing decisions on data and evidence
