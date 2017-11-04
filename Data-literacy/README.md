@@ -52,6 +52,10 @@ data as others. Communicating key
 themes from results and simple “need-to-knows” about methodology and 
 limitations.
 
+## Activities
+- Discussion of open source software, open data open government
+- Exploring data & introduction to [GitHub](https://github.com/)
+
 ## Links
 
 ## Canadian Examples
