@@ -22,5 +22,6 @@ government, and be able to identify opportunities to apply them to their own wor
 1. [**Insurgency**](Insurgency) - challenging the status quo and working with unusual partners
 1. **Putting it all together**
 
+You can also [browse to these pages](https://yowct.github.io/Civic-Tech-Course/) and the [slides](https://yowct.github.io/Civic-Tech-Course/Curiosity/slides-remark/) to navigate the sample content.
 
 "[CORE SKILLS FOR PUBLIC SECTOR INNOVATION](https://www.oecd.org/media/oecdorg/satellitesites/opsi/contents/files/OECD_OPSI-core_skills_for_public_sector_innovation-201704.pdf)" by Observatory of Public Sector Innovation is licensed under [Creative Commons Attribution-ShareAlike 3.0 IGO Licence.](https://creativecommons.org/licenses/by-sa/3.0/igo/)
