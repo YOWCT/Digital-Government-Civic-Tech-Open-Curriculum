@@ -58,4 +58,10 @@ lessons over and over.
 
 ## Links
 
+### Online Education
+- https://www.futurelearn.com/courses/data-tells-a-story
+- https://www.coursera.org/learn/digital-storytelling
+- https://www.coursera.org/learn/leadership-storytelling
+- https://www.coursera.org/learn/transmedia-storytelling
+
 ## Canadian Examples
