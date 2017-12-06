@@ -59,3 +59,5 @@ limitations.
 ## Links
 
 ## Canadian Examples
+
+- Civic Tech Ottawa has a group looking at spending within the Government of Canada. This is partly a experiment in data science, but also an exercise in public accountability. So far they have scraped data from 32 federal departments and can import that into a MySQL file for easy access. this has already been useful in finding a more acurate account of spending on the IBM PHoenix Pay System. More information is available from. https://github.com/GoC-Spending
