@@ -6,9 +6,9 @@ This introductory session will give students an opportunity to meet each other a
 
 ## Goals
 
-Basic definitions and context will be covered, as well as concepts like "Government as a platform". 
-
-We will draw on local, regional, national and international context where applicable.
+- Basic definitions and context will be covered, as well as concepts like "Government as a platform". 
+- Short history of how we got here.
+- Will draw on local, regional, national and international context where applicable.
 
 ## Activities
 
@@ -17,4 +17,7 @@ Introductions, get familiar with [Slack](https://slack.com/) & [GitHub](https://
 ## Links
 - https://governmentasaplatform.blog.gov.uk/
 
-## Canadian examples
+## Canadian Leaders
+- https://codefor.ca/
+- http://civictech.ca/
+- https://www.meetup.com/YOW_CT/
