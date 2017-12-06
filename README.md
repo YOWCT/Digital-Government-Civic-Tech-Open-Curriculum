@@ -13,7 +13,7 @@ government, and be able to identify opportunities to apply them to their own wor
 
 ## Modules
 
-1. [**Introduction**](Context) Introduction to the core skills for Public Sector Innovation
+1. [**Introduction**](Introduction) Introduction to the core skills for Public Sector Innovation
 1. [**Iteration**](Iteration) - incrementally and experimentally developing policies, products and services
 1. [**Data literacy**](Data-literacy) - ensuring decisions are data-driven and that data isn't an after though
 1. [**User centricity**](User-centricity) - public services should be focussed on solving and servicing user needs
