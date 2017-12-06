@@ -64,4 +64,9 @@ out. The user is always the best source.
 - https://www.w3.org/WAI/intro/wcag
 - http://styleguides.io/podcast/maya-benari/
 
+### Online Education
+- https://www.coursera.org/learn/uva-darden-design-thinking-innovation
+- https://www.edx.org/course/introduction-design-thinking-microsoft-dev241x-1
+- https://dschool.stanford.edu/resources-collections/a-virtual-crash-course-in-design-thinking
+
 ## Canadian examples
