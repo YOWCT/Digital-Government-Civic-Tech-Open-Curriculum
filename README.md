@@ -1,6 +1,8 @@
 # Civic Tech Course
 
-Open source Civic Tech course based on The Observatory of Public Sector Innovation's "CORE SKILLS FOR PUBLIC SECTOR INNOVATION" April 2017 beta model.
+Open source Civic Tech course is based on The Observatory of Public Sector Innovation's "CORE SKILLS FOR PUBLIC SECTOR INNOVATION" April 2017 beta model.
+
+## Why a Civic Tech Course
 
 Use of new technology demands that government services are more responsive and citizen-focused. In order to 
 met the exponentially growing demand from citizens governments need a strong understanding of the tools and 
@@ -10,6 +12,17 @@ applications, the course will cover emerging best practices in digital governmen
 
 By the end of the course, students will be familiar with the tools, methods, and processes of digital 
 government, and be able to identify opportunities to apply them to their own work.
+
+## Open, Collaborative Course Development
+
+A core tenant embraced by the Civic Tech community is to leverage Open Source technologies to:
+* Lower cost to develop and deploy
+* Increase the potential contributor-base
+* Share and reuse tools and creations within and between Civic Tech groups
+* Build a knowledge base of success and failure stories
+
+It is in this spirit that the Civic Tech & Government course will be developed and maintained as an open source resource.  Although the basic foundational elements will be developed by a small group, the goal will be to open up the course materials to a broader civic tech audience to keep the content fresh and contextually relevant.  GitHub will be used as the project repository.  Once the first iteration of the course materials are completed, it will be opened up on Github so other Civic Tech groups can fork, contribute and create their own customized offering.
+
 
 ## Modules
 
