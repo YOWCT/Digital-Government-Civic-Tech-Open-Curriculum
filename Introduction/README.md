@@ -40,6 +40,7 @@ This introductory session will give students an opportunity to meet each other a
 - [UK Government Digital Service - Government as a Platform](https://governmentasaplatform.blog.gov.uk/)
 - [Atkinson Foundation: Civic Tech for Civic Voice](http://atkinsonfoundation.ca/wp-content/uploads/2014/10/Atkinson_CTR_FA_101614_Digital.pdf) - PDF
 - [Tim O’Reilly, “Government as Platform”](http://chimera.labs.oreilly.com/books/1234000000774/ch02.html)
+- [New York Times: Code Cracking](https://www.nytimes.com/interactive/2016/11/13/magazine/design-issue-code-for-america.html?_r=0)
 
 ## Canadian Leaders
 - https://codefor.ca/
