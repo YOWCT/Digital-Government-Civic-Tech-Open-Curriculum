@@ -42,6 +42,12 @@ This introductory session will give students an opportunity to meet each other a
 - [Tim O’Reilly, “Government as Platform”](http://chimera.labs.oreilly.com/books/1234000000774/ch02.html)
 - [New York Times: Code Cracking](https://www.nytimes.com/interactive/2016/11/13/magazine/design-issue-code-for-america.html?_r=0)
 
+- Book: [Dan Hill “Dark Matter and Trojan Horses: A Strategic Design Vocabulary”](https://www.amazon.ca/Dark-Matter-Trojan-Horses-Vocabulary/dp/0992914639)
+- Book: [Goldsmith and Crawford. “The Responsive City: Engaging Communities Through Data-Smart Governance”](https://www.amazon.ca/Responsive-City-Communities-Data-Smart-Governance/dp/1118910907)
+- Book: [Osterwalder and Pigneur “Value Proposition Design”](https://www.amazon.ca/Value-Proposition-Design-Products-Customers/dp/1118968050)
+- Book: [Beth Simone Noveck “Smart Citizens, Smarter State: The Technologies of Expertise and the Future of Governing”](https://www.amazon.ca/Smart-Citizens-Smarter-State-Technologies/dp/0674286057)
+- Book: [William D. Eggers “Delivering on Digital: The Innovators and Technologies That Are Transforming Government”](https://www.amazon.ca/Delivering-Digital-Innovators-Technologies-Transforming/dp/0795347510)
+
 ## Canadian Leaders
 - https://codefor.ca/
 - http://civictech.ca/
