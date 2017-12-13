@@ -64,4 +64,6 @@ that you haven’t thought of.
 
 ## Links
 
+- [Slides for this session](slides.html)
+
 ## Canadian Examples
