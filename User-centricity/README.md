@@ -61,8 +61,10 @@ out. The user is always the best source.
 - Design critique
 
 ## Links
-- https://www.w3.org/WAI/intro/wcag
-- http://styleguides.io/podcast/maya-benari/
+
+- [Slides for this session](slides.html)
+- [Introduction to WCAG 2.0](https://www.w3.org/WAI/intro/wcag)
+- [Podcast by Maya Benari](http://styleguides.io/podcast/maya-benari/)
 
 ### Online Education
 - https://www.coursera.org/learn/uva-darden-design-thinking-innovation
