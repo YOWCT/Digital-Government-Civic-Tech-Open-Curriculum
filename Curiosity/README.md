@@ -51,5 +51,11 @@ something new happening somewhere.
 ## Links
 
 - [Slides for this session](slides.html)
+- [“Agile vs. Waterfall”](http://www.agilenutshell.com/agile_vs_waterfall)
+- [Hypothesis Driven Entrepreneurship - The Lean Startup]()
+- [Tom Loosemore on lean policymaking at the CfA summit](https://www.youtube.com/watch?v=5qI6Qw2_o_8&amp=&t=287s) video
+- [18F Digital Acquisition Playbook](https://digital-acquisition-playbook.18f.gov/)
+- [Civicist on why procurement reform matters](https://civichall.org/civicist/why-18fs-new-approach-to-procurement-reform-matters/)
+- [Mississippi agile procurement project](https://18f.gsa.gov/2016/09/20/mississippi-agile-modular-techniques-child-welfare-system/)
 
 ## Canadian Examples
