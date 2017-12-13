@@ -61,9 +61,15 @@ that you haven’t thought of.
 - Exploring incubators and innovation labs
 - Group discussion about opportunities outside of silos
 - Paying it forward (adding information to the course GitHub pages)
+- Co-design and civic tech
+- Incubators and innovation labs
+- Getting buy-in, communities of practice
 
 ## Links
 
 - [Slides for this session](slides.html)
+- [How to Talk to Civic Hackers](https://www.gitbook.com/book/mheadd/how-to-talk-to-civic-hackers/details)
+- Video: [No More Throw Away People](https://www.youtube.com/watch?v=C107PQ3h8Kk)
+- [Rebels at Work – Introduction and 1st chapter](https://www.rebelsatwork.com/)
 
 ## Canadian Examples
