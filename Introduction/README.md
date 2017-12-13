@@ -18,6 +18,8 @@ Introductions, get familiar with [Slack](https://slack.com/) & [GitHub](https://
 
 - [Slides for this session](slides.html)
 - [UK Government Digital Service - Government as a Platform](https://governmentasaplatform.blog.gov.uk/)
+- [Atkinson Foundation: Civic Tech for Civic Voice](http://atkinsonfoundation.ca/wp-content/uploads/2014/10/Atkinson_CTR_FA_101614_Digital.pdf) - PDF
+- [Tim O’Reilly, “Government as Platform”](http://chimera.labs.oreilly.com/books/1234000000774/ch02.html)
 
 ## Canadian Leaders
 - https://codefor.ca/
