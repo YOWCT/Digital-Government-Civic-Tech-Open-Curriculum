@@ -86,6 +86,7 @@ worksheets
 - [18F Web Design Standards](https://18f.gsa.gov/2015/09/28/web-design-standards/)
 - [Combining User Research and Analytics to Improve the User Experience](https://gds.blog.gov.uk/2014/10/10/combining-user-research-and-analytics-to-improve-the-user-experience/)
 - [UK icon update](https://gds.blog.gov.uk/2013/06/18/retiring-our-icons/)
+- [IDEO’s DesignKit.org Mindset](http://www.designkit.org/mindsets) videos
 
 ### Online Education
 - https://www.coursera.org/learn/uva-darden-design-thinking-innovation
