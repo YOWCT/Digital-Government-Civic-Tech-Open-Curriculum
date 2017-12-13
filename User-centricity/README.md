@@ -54,11 +54,28 @@ need a bit of that information is missed
 out. The user is always the best source.
 
 ## Activities
+
 - User experience and user interface design
 - Web accessibility
 - User testing
 - Measurement and analytics
 - Design critique
+
+### To bring:
+- User research
+worksheets
+- Pencils/pens
+- Blank paper
+- Sticky notes
+- Markers
+- Cowbell
+
+### 6:30-7:00 - Human-centered design 
+### 7:00-7:30 User research activity
+### 7:30-7:45 Break
+### 7:45-8:45 Design in government
+### 8:45-9 Break
+### 9-9:30 Journey mapping activity
 
 ## Links
 
