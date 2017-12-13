@@ -15,7 +15,9 @@ This introductory session will give students an opportunity to meet each other a
 Introductions, get familiar with [Slack](https://slack.com/) & [GitHub](https://github.com/)
 
 ## Links
-- https://governmentasaplatform.blog.gov.uk/
+
+- [Slides for this session](slides.html)
+- [UK Government Digital Service - Government as a Platform](https://governmentasaplatform.blog.gov.uk/)
 
 ## Canadian Leaders
 - https://codefor.ca/
