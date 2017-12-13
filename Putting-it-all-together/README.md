@@ -8,4 +8,6 @@ There is nothing like a frank discussion with people who have been pratitioners 
 
 ## Links
 
+- [Slides for this session](slides.html)
+
 ## Canadian examples
