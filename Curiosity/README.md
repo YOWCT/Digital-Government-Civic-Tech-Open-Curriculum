@@ -50,4 +50,6 @@ something new happening somewhere.
 
 ## Links
 
+[Course slides](slides.html)
+
 ## Canadian Examples
