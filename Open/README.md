@@ -6,7 +6,8 @@ Join the open ecosystem: Open source, open standards, open government, and open 
 - Open source software
 - Open data
 - Open government
-- Activity: Introduction to Github
+- Activity: Introduction to [GitHub](https://github.com/)
+
 
 ## Goals
 
