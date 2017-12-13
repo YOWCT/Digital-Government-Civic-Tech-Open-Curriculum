@@ -61,6 +61,8 @@ out. The user is always the best source.
 - Measurement and analytics
 - Design critique
 - Activity: Usability testing 101
+- Activity: Human-centered design sprint
+- Activity: User research
 
 ### To bring:
 - User research
