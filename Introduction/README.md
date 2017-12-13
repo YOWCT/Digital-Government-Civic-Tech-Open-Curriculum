@@ -12,7 +12,27 @@ This introductory session will give students an opportunity to meet each other a
 
 ## Activities
 
-Introductions, get familiar with [Slack](https://slack.com/) & [GitHub](https://github.com/)
+### To bring:
+- Index cards, pens
+- Blank paper
+- Course outlines
+- Self-assessments
+
+### 6:30-7:00 - Welcome/housekeeping
+- Pre-course reflection survey activity
+
+### 7:00-7:30 - Course goals
+- Review course outline
+- Hopes and expectations activity
+
+### 7:30-7:45 Break
+### 7:45-8:30 300 short conversations activity
+### 8:30-8:45 - Government as platform
+- local, regional, national and international context
+
+### 8:45-9 Break
+### 9-9:30 - Introduction to local Civic Tech Slack
+- Introductions, get familiar with [Slack](https://slack.com/) & [GitHub](https://github.com/)
 
 ## Links
 
