@@ -6,11 +6,20 @@ Let's **join the open ecosystem** and learn how to engage with data leveraging o
 
 ## Objectives
 
+- Defining data
 - Basing decisions on data and evidence
 - Building systems that collect the right data
 - Communicating data effectively
 
 ## Goals
+
+### Understanding Data
+
+*What is the basic definition of data and how does it differ from information*
+
+Before we can explore data literacy, 
+it is important to set a common definition for data 
+and to differentiate data from information.   
 
 ### Using Data to Make Decisions
 
