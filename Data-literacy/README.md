@@ -58,6 +58,8 @@ limitations.
 
 ## Links
 
+- [Slides for this session](slides.html)
+
 ### Online Education
 - https://www.edx.org/course/data-analytics-learning-utarlingtonx-link5-10x
 - https://www.coursera.org/learn/data-management
