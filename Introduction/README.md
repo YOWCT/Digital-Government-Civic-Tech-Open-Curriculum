@@ -32,7 +32,7 @@ This introductory session will give students an opportunity to meet each other a
 
 ### 8:45-9 Break
 ### 9-9:30 - Introduction to local Civic Tech Slack
-- Introductions, get familiar with [Slack](https://slack.com/) & [GitHub](https://github.com/)
+- Introductions, get familiar with [Slack](https://slack.com/)
 
 ## Links
 
