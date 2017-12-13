@@ -60,6 +60,7 @@ out. The user is always the best source.
 - User testing
 - Measurement and analytics
 - Design critique
+- Activity: Usability testing 101
 
 ### To bring:
 - User research
