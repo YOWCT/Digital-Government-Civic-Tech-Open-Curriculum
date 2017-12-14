@@ -25,15 +25,15 @@ It is in this spirit that the curriculum will be developed and maintained as an 
 
 ## Modules
 
-1. [**Introduction**](Introduction) - introduction to the core skills for civic tech, digital government and public sector innovation
-1. [**Iteration**](Iteration) - incrementally and experimentally developing policies, products and services
-1. [**User centricity**](User-centricity) - public services should be focussed on solving and servicing user needs
-1. [**Open**](Open) - creating and participating in the open ecosystem
-1. [**Data literacy**](Data-literacy) - ensuring decisions are data-driven and that data isn't an afterthought
-1. [**Curiosity**](Curiosity) - seeking out and trying new ideas or ways of working
-1. [**Storytelling**](Storytelling) - explaining change in a way that builds support
-1. [**Insurgency**](Insurgency) - challenging the status quo and working with unusual partners
-1. [**Putting it all together**](Putting-it-all-together) - understanding how to put these skills into practice
+1. [**Introduction**](1-Introduction) - introduction to the core skills for civic tech, digital government and public sector innovation
+1. [**Iteration**](2-Iteration) - incrementally and experimentally developing policies, products and services
+1. [**User centricity**](3-User-centricity) - public services should be focussed on solving and servicing user needs
+1. [**Open**](4-Open) - creating and participating in the open ecosystem
+1. [**Data literacy**](5-Data-literacy) - ensuring decisions are data-driven and that data isn't an afterthought
+1. [**Curiosity**](6-Curiosity) - seeking out and trying new ideas or ways of working
+1. [**Storytelling**](7-Storytelling) - explaining change in a way that builds support
+1. [**Insurgency**](8-Insurgency) - challenging the status quo and working with unusual partners
+1. [**Putting it all together**](9-Putting-it-all-together) - understanding how to put these skills into practice
 
 You can also [browse these pages](https://yowct.github.io/Civic-Tech-Course/) and the [slides](https://yowct.github.io/Civic-Tech-Course/Curiosity/slides-remark/) to navigate the content.
 
