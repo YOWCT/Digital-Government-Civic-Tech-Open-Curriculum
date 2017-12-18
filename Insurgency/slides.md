@@ -120,39 +120,39 @@ class: middle
 
 class: middle 
 
-.pull-left[
-
-# Bad Rebels
-- Complain
-- Break rules
-- Me-focused
-- Problems
-- Alienate
-- Energy-sapping
-- Assertions
-- Pessimist
-- Point fingers
-- Worry that…
-- Obsessed
- 
-]
-
-.pull-right[
-
-# Good rebels
-- Create
-- Change rules
-- Mission focused
-- Possibilities
-- Attract
-- Energy-generating
-- Questions
-- Optimist
-- Pinpoint causes
-- Wonder if…
-- Reluctant
-
-]
+<table width="95%">
+<tr>
+<td>
+<h2>Bad Rebels</h2>
+<ul>
+<li>Complain
+<li>Break rules
+<li>Me-focused
+<li>Problems
+<li>Alienate
+<li>Energy-sapping
+<li>Assertions
+<li>Pessimist
+<li>Point fingers
+<li>Worry that…
+<li>Obsessed
+</td>
+<td>
+<h2>Good rebels</h2>
+<li>Create
+<li>Change rules
+<li>Mission focused
+<li>Possibilities
+<li>Attract
+<li>Energy-generating
+<li>Questions
+<li>Optimist
+<li>Pinpoint causes
+<li>Wonder if…
+<li>Reluctant
+<td>
+</tr>
+</table>
 
 **Source: Rebels at Work**
 
@@ -225,13 +225,13 @@ class: middle
 
 # Activity (Part 2)
  
-- Find ONE partner -- someone you don't work with, for obvious reasons.
- - Share which team you picked, and which approach you ranked 4th. Then describe the past failure and future opportunity. [5m ea, 10m total]
+- Find 1 partner — someone you don't already work with.
+ - Share which team you picked, and which approach you ranked 4th. Then describe past failure/future opportunity. [5m ea, 10m total]
 - Go deeper, asking these questions (or others) of each other: [5m ea, 10m total]
  - Is this holding your team back?
  - Who are the key people who'd need to be convinced (to lead, or to not block)?
- - What could you do/say to influence those people?
- - Capture suggestions, insights, and blockers. (To potentially share back with the group.)
+ - What could you do/say to influence them?
+ - Capture suggestions, insights, and blockers. (To potentially to share)
 - Report back. [10m]
  
 ## Insurgency:
@@ -240,7 +240,7 @@ class: middle
 - Trying things that might not work out
 - Building alliances for change
 - Working with unusual partners
- 
+
 ---
 
 class: middle 
