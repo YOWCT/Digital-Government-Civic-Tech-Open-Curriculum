@@ -20,4 +20,4 @@ Join the open ecosystem: Open source, open standards, open government, and open 
 ## Canadian examples
 
 ## Slides
--  [Draft slides](slides.html)
+-  Draft slides [to view](slides.html) or [to edit](slides.md)
