@@ -35,6 +35,6 @@ It is in this spirit that the curriculum will be developed and maintained as an 
 1. [**Insurgency**](Insurgency) - challenging the status quo and working with unusual partners
 1. [**Putting it all together**](Putting-it-all-together) - understanding how to put these skills into practice
 
-You can also [browse these pages](http://ottawacivictech.ca/Digital-Government-Civic-Tech-Open-Curriculum/) and the [slides](http://ottawacivictech.ca/Digital-Government-Civic-Tech-Open-Curriculum/Curiosity/slides.html) to navigate the content.
+You can also [browse these pages](http://ottawacivictech.ca/Digital-Government-Civic-Tech-Open-Curriculum/) and the slides to navigate the content.
 
 "[CORE SKILLS FOR PUBLIC SECTOR INNOVATION](https://www.oecd.org/media/oecdorg/satellitesites/opsi/contents/files/OECD_OPSI-core_skills_for_public_sector_innovation-201704.pdf)" by Observatory of Public Sector Innovation is licensed under [Creative Commons Attribution-ShareAlike 3.0 IGO Licence.](https://creativecommons.org/licenses/by-sa/3.0/igo/)
