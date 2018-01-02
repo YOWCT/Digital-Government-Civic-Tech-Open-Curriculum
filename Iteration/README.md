@@ -59,4 +59,4 @@ trying to implement more widely.
 ## Canadian Examples
 
 ## Slides
--  [Draft slides](slides.html)
+-  Draft slides [to view](slides.html) or [to edit](slides.md)
