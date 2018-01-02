@@ -79,5 +79,5 @@ limitations.
 - Civic Tech Ottawa has a group looking at spending within the Government of Canada. This is partly a experiment in data science, but also an exercise in public accountability. So far they have scraped data from 32 federal departments and can import that into a MySQL file for easy access. this has already been useful in finding a more acurate account of spending on the IBM PHoenix Pay System. More information is available from. https://github.com/GoC-Spending
 
 ## Slides
--  Draft slides [to view](slides.html) or [to edit](slides.md)
+-  Draft slides [to view](http://ottawacivictech.ca/Digital-Government-Civic-Tech-Open-Curriculum/Data-literacy/slides.html) or [to edit](https://github.com/YOWCT/Digital-Government-Civic-Tech-Open-Curriculum/edit/master/Data-literacy/slides.md)
 
