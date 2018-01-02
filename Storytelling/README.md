@@ -56,10 +56,6 @@ lessons over and over.
 - Basics of user research vs traditional public consultation
 - Building interviews
 
-## Links
-
-- [Slides for this session](slides.html)
-
 ### Online Education
 - https://www.futurelearn.com/courses/data-tells-a-story
 - https://www.coursera.org/learn/digital-storytelling
@@ -67,3 +63,6 @@ lessons over and over.
 - https://www.coursera.org/learn/transmedia-storytelling
 
 ## Canadian Examples
+
+## Slides
+-  [Draft slides](slides.html)
