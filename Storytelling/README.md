@@ -65,4 +65,4 @@ lessons over and over.
 ## Canadian Examples
 
 ## Slides
--  Draft slides [to view](slides.html) or [to edit](slides.md)
+-  Draft slides [to view](http://ottawacivictech.ca/Digital-Government-Civic-Tech-Open-Curriculum/Storytelling/slides.html) or [to edit](https://github.com/YOWCT/Digital-Government-Civic-Tech-Open-Curriculum/blob/master/Storytelling/slides.md)
