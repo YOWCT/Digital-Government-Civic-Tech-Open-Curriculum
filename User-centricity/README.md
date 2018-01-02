@@ -98,7 +98,7 @@ worksheets
 - https://dschool.stanford.edu/resources-collections/a-virtual-crash-course-in-design-thinking
 
 ## Canadian examples
-
 ## Slides
--  Draft slides [to view](http://ottawacivictech.ca/Digital-Government-Civic-Tech-Open-Curriculum/User-centricity/slides.html) or [to edit](https://github.com/YOWCT/Digital-Government-Civic-Tech-Open-Curriculum/blob/master/User-centricity/slides.md)
+-  Draft slides [to view](http://ottawacivictech.ca/Digital-Government-Civic-Tech-Open-Curriculum/User-centricity/slides.html) or [to edit](https://github.com/YOWCT/Digital-Government-Civic-Tech-Open-Curriculum/edit/master/User-centricity/slides.md
+)
 
