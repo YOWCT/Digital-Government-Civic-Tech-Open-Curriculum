@@ -11,4 +11,4 @@ There is nothing like a frank discussion with people who have been pratitioners 
 ## Canadian examples
 
 ## Slides
--  [Draft slides](slides.html)
+-  Draft slides [to view](slides.html) or [to edit](slides.md)
