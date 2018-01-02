@@ -55,4 +55,4 @@ This introductory session will give students an opportunity to meet each other a
 
 
 ## Slides
--  Draft slides [to view](slides.html) or [to edit](slides.md)
+-  Draft slides [to view](http://ottawacivictech.ca/Digital-Government-Civic-Tech-Open-Curriculum/Introduction/slides.html) or [to edit](https://github.com/YOWCT/Digital-Government-Civic-Tech-Open-Curriculum/edit/master/Introduction/slides.md)
