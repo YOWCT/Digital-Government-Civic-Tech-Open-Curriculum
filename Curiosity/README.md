@@ -61,3 +61,7 @@ something new happening somewhere.
 - [Lean Startup principles](http://theleanstartup.com/principles)
 
 ## Canadian Examples
+
+
+## Slides
+-  [Draft slides](slides.html)
