@@ -80,4 +80,3 @@ limitations.
 
 ## Slides
 -  Draft slides [to view](http://ottawacivictech.ca/Digital-Government-Civic-Tech-Open-Curriculum/Data-literacy/slides.html) or [to edit](https://github.com/YOWCT/Digital-Government-Civic-Tech-Open-Curriculum/edit/master/Data-literacy/slides.md)
-
