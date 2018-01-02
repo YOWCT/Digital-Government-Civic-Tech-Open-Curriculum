@@ -20,4 +20,4 @@ Join the open ecosystem: Open source, open standards, open government, and open 
 ## Canadian examples
 
 ## Slides
--  Draft slides [to view](slides.html) or [to edit](slides.md)
+-  Draft slides [to view](http://ottawacivictech.ca/Digital-Government-Civic-Tech-Open-Curriculum/Open/slides.html) or [to edit](https://github.com/YOWCT/Digital-Government-Civic-Tech-Open-Curriculum/edit/master/Open/slides.md)
