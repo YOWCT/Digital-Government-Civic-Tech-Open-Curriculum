@@ -55,4 +55,4 @@ This introductory session will give students an opportunity to meet each other a
 
 
 ## Slides
--  [Draft slides](slides.html)
+-  Draft slides [to view](slides.html) or [to edit](slides.md)
