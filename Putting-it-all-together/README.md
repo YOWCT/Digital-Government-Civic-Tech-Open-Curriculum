@@ -11,4 +11,4 @@ There is nothing like a frank discussion with people who have been pratitioners 
 ## Canadian examples
 
 ## Slides
--  Draft slides [to view](slides.html) or [to edit](slides.md)
+-  Draft slides [to view](http://ottawacivictech.ca/Digital-Government-Civic-Tech-Open-Curriculum/Putting-it-all-together/slides.html) or [to edit](https://github.com/YOWCT/Digital-Government-Civic-Tech-Open-Curriculum/blob/master/Putting-it-all-together/slides.md)
