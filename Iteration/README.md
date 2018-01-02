@@ -52,13 +52,11 @@ trying to implement more widely.
 - Design: prototyping
 - Software development: Agile
 
-## Links
-
-- [Slides for this session](slides.html)
-
 ### Online Education
 - https://www.coursera.org/specializations/agile-development
 - https://www.edx.org/course/agile-software-development-ethx-asd-1x-0
 
 ## Canadian Examples
 
+## Slides
+-  [Draft slides](slides.html)
