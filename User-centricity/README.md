@@ -100,5 +100,5 @@ worksheets
 ## Canadian examples
 
 ## Slides
--  Draft slides[to view](slides.html) or [to edit](slides.md)
+-  Draft slides [to view](slides.html) or [to edit](slides.md)
 
