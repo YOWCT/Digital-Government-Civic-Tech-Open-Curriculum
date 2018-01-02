@@ -59,4 +59,4 @@ trying to implement more widely.
 ## Canadian Examples
 
 ## Slides
--  Draft slides [to view](http://ottawacivictech.ca/Digital-Government-Civic-Tech-Open-Curriculum/Iteration/slides.html) or [to edit](https://github.com/YOWCT/Digital-Government-Civic-Tech-Open-Curriculum/edit/master/Iteration/slides.md)
+-  Draft slides [to view](http://ottawacivictech.ca/Digital-Government-Civic-Tech-Open-Curriculum/Iteration/slides.html) or [to edit](https://github.com/YOWCT/Digital-Government-Civic-Tech-Open-Curriculum/master/Iteration/slides.md)
