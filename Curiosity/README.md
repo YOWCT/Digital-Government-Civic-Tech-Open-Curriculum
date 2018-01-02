@@ -64,4 +64,4 @@ something new happening somewhere.
 
 
 ## Slides
--  [Draft slides](slides.html)
+-  Draft slides [to view](slides.html) or [to edit](slides.md)
