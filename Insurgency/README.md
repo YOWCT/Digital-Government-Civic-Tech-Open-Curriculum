@@ -73,3 +73,7 @@ that you haven’t thought of.
 - [Rebels at Work – Introduction and 1st chapter](https://www.rebelsatwork.com/)
 
 ## Canadian Examples
+
+## Slides
+-  [Draft slides](slides.html)
+
