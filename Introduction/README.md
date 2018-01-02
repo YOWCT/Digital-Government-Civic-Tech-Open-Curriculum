@@ -52,3 +52,7 @@ This introductory session will give students an opportunity to meet each other a
 - https://codefor.ca/
 - http://civictech.ca/
 - https://www.meetup.com/YOW_CT/
+
+
+## Slides
+-  [Draft slides](slides.html)
