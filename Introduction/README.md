@@ -49,10 +49,11 @@ This introductory session will give students an opportunity to meet each other a
 - Book: [William D. Eggers “Delivering on Digital: The Innovators and Technologies That Are Transforming Government”](https://www.amazon.ca/Delivering-Digital-Innovators-Technologies-Transforming/dp/0795347510)
 
 ## Canadian Leaders
+- [Ottawa Civic Tech](http://ottawacivictech.ca)
+    - [Ottawa's Meetup](https://www.meetup.com/YOW_CT/)
 - [Code for Canada](https://codefor.ca/)
+    - [Canadian Network](https://codefor.ca/community-network/)
 - [Toronto Civic Tech](http://civictech.ca/)
-- [Ottawa Civic Tech](https://www.meetup.com/YOW_CT/)
-
 
 ## Slides
 -  Draft slides [to view](http://ottawacivictech.ca/Digital-Government-Civic-Tech-Open-Curriculum/Introduction/slides.html) or [to edit](https://github.com/YOWCT/Digital-Government-Civic-Tech-Open-Curriculum/edit/master/Introduction/slides.md)
