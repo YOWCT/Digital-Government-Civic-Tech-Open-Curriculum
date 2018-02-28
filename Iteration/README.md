@@ -54,7 +54,7 @@ trying to implement more widely.
 
 ### Online Education
 - [Coursera: Agile Development](https://www.coursera.org/specializations/agile-development)
-- [Edx: Agile Software Development](*https://www.edx.org/course/agile-software-development-ethx-asd-1x-0)
+- [Edx: Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x-0)
 
 ## Government Examples
 - [18F: Agile Principles & Practices](https://agile.18f.gov/index.html)
