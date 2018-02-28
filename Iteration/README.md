@@ -53,16 +53,16 @@ trying to implement more widely.
 - Software development: Agile
 
 ### Online Education
-- https://www.coursera.org/specializations/agile-development
-- https://www.edx.org/course/agile-software-development-ethx-asd-1x-0
+- [Coursera: Agile Development](https://www.coursera.org/specializations/agile-development)
+- [Edx: Agile Software Development]https://www.edx.org/course/agile-software-development-ethx-asd-1x-0
 
 ## Government Examples
 - [18F: Agile Principles & Practices](https://agile.18f.gov/index.html)
 - [Iterate. Then iterate again.](https://gds.blog.gov.uk/2012/07/18/iterate-then-iterate-again/)
 
 ## Canadian Examples
-- [Government of Canada's Digital Principles](https://open.canada.ca/en/blog/digital-principles)
-
+- [Government of Canada: Digital Principles](https://open.canada.ca/en/blog/digital-principles)
+- [Government of Ontario: Digital Service Standard](https://www.ontario.ca/page/digital-service-standard#section-9)
 
 ## Slides
 -  Draft slides [to view](http://ottawacivictech.ca/Digital-Government-Civic-Tech-Open-Curriculum/Iteration/slides.html) or [to edit](https://github.com/YOWCT/Digital-Government-Civic-Tech-Open-Curriculum/edit/master/Iteration/slides.md)
