@@ -97,6 +97,12 @@ worksheets
 - https://www.edx.org/course/introduction-design-thinking-microsoft-dev241x-1
 - https://dschool.stanford.edu/resources-collections/a-virtual-crash-course-in-design-thinking
 
+## Government examples
+- [18F: Method Cards](https://methods.18f.gov/) - A collection of tools to bring human-centered design into your project.
+- [GDS: ](https://www.gov.uk/service-manual)
+
 ## Canadian examples
+
+
 ## Slides
 -  Draft slides [to view](http://ottawacivictech.ca/Digital-Government-Civic-Tech-Open-Curriculum/User-centricity/slides.html) or [to edit](https://github.com/YOWCT/Digital-Government-Civic-Tech-Open-Curriculum/edit/master/User-centricity/slides.md)
