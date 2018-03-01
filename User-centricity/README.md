@@ -99,7 +99,7 @@ worksheets
 
 ## Government examples
 - [18F: Method Cards](https://methods.18f.gov/) - A collection of tools to bring human-centered design into your project.
-- [GDS: ](https://www.gov.uk/service-manual)
+- [GDS: Service Manual](https://www.gov.uk/service-manual)
 
 ## Canadian examples
 
