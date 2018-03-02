@@ -9,6 +9,7 @@ It is about **building great interfaces** and having patterns that make it easy 
 - Policies and services solve user needs
 - Considering users at every stage
 - Ensuring users say "I would do that again"
+- Accessibility & inclusive design
 
 ## Goals
 
@@ -102,7 +103,7 @@ worksheets
 - [GDS: Service Manual](https://www.gov.uk/service-manual)
 
 ## Canadian examples
-
+- 
 
 ## Slides
 -  Draft slides [to view](http://ottawacivictech.ca/Digital-Government-Civic-Tech-Open-Curriculum/User-centricity/slides.html) or [to edit](https://github.com/YOWCT/Digital-Government-Civic-Tech-Open-Curriculum/edit/master/User-centricity/slides.md)
